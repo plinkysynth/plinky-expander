@@ -1,0 +1,10 @@
+item,quantity,part number,link,comment
+plinky header,1,302-R161,https://www.digikey.co.uk/product-detail/en/on-shore-technology-inc/302-R161/ED10535-ND/2794246,this gets soldered to plinky!
+"breakable 0.1"" header pins",24,,,"break 24x1 into an8x2 and a 4x2; if you want to power separately, you should also get 10 more to make a 5x2"
+thonk sockets,4,(PJ398SM),https://www.thonk.co.uk/shop/3-5mm-jacks/,black thonk sockets for the CV outputs
+thonk stereo sockets,2,(PJ366ST),https://www.thonk.co.uk/shop/3-5mm-jacks/,green stereo thonk sockets for MIDI input/output
+usb B socket,1,5787834-1,https://www.digikey.co.uk/product-detail/en/te-connectivity-amp-connectors/5787834-1/5787834-1-ND/2055998,chunky vertical USB B socket
+LED socket,1,samtec SSM-104-L-DV  *or* amphenol 89898-304LF,https://www.digikey.co.uk/product-detail/en/samtec-inc/SSM-104-L-DV/SAM1146-04-ND/1106227,
+blue leds,4,IN-S124ARB,https://www.digikey.co.uk/product-detail/en/inolux/IN-S124ARB/1830-1117-1-ND/7604658,same as plinky
+white leds,4,IN-S124ARUW,https://www.digikey.co.uk/product-detail/en/inolux/IN-S124ARUW/1830-1119-1-ND/7604662,same as plinky
+16 pin eurorack power cable,1,,,standard euro power cable
