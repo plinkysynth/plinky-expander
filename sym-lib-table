@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name expander-rescue)(type Legacy)(uri ${KIPRJMOD}/expander-rescue.lib)(options "")(descr ""))
+)
