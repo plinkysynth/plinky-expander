@@ -178,17 +178,6 @@ F 3 "~" H 7700 2150 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L expander-rescue:SN74LVC1G17DBV-xyab U2
-U 1 1 5FE503E0
-P 1600 6200
-F 0 "U2" H 1894 6246 50  0000 L CNN
-F 1 "SN74LVC1G17DBV" H 750 6300 50  0000 L CNN
-F 2 "Package_TO_SOT_SMD:SOT-353_SC-70-5" H 1600 5950 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf" H 1600 6200 50  0001 C CNN
-	1    1600 6200
-	1    0    0    -1  
-$EndComp
-$Comp
 L Isolator:HCPL-0631 U3
 U 1 1 5FE5EA1C
 P 1850 7550
@@ -1856,14 +1845,25 @@ F 3 "" H 1850 7050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR0110
 U 1 1 60177500
 P 2450 8200
-F 0 "#PWR?" H 2450 8050 50  0001 C CNN
+F 0 "#PWR0110" H 2450 8050 50  0001 C CNN
 F 1 "+5V" H 2300 8300 50  0000 C CNN
 F 2 "" H 2450 8200 50  0001 C CNN
 F 3 "" H 2450 8200 50  0001 C CNN
 	1    2450 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L expander-rescue:SN74LVC1G17DBV-xyab U2
+U 1 1 5FE503E0
+P 1600 6200
+F 0 "U2" H 1894 6246 50  0000 L CNN
+F 1 "SN74LVC1G17DBV" H 750 6300 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-5" H 1600 5950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74lvc1g14.pdf" H 1600 6200 50  0001 C CNN
+	1    1600 6200
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
