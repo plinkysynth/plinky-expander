@@ -1,5 +1,5 @@
 item,quantity,part number,link,comment
-plinky header,1,302-R161,https://www.digikey.co.uk/product-detail/en/on-shore-technology-inc/302-R161/ED10535-ND/2794246,this gets soldered to plinky!
+plinky header,1,302-R161,https://www.digikey.co.uk/product-detail/en/on-shore-technology-inc/302-R161/ED10535-ND/2794246,this gets soldered to plinky! you only need this if you have an original V1 plinky; later plinkys (may 2021) have this already installed.
 "breakable 0.1"" header pins",24,,,"break 24x1 into an8x2 and a 4x2; if you want to power separately, you should also get 10 more to make a 5x2"
 thonk sockets,4,(PJ398SM),https://www.thonk.co.uk/shop/3-5mm-jacks/,black thonk sockets for the CV outputs
 thonk stereo sockets,2,(PJ366ST),https://www.thonk.co.uk/shop/3-5mm-jacks/,green stereo thonk sockets for MIDI input/output
